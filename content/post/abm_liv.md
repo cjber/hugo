@@ -23,7 +23,7 @@ An agent based model framework, written in python, demonstrating the interaction
 ---
 
 <p align="center">
-<a href="https://github.com/cjber/abm_liv"> Documentation</a>
+<a href="https://cjber.github.io/abm_liv"> Documentation</a>
 </font>
 </p>
 
