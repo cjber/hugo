@@ -1,0 +1,106 @@
+body {
+  color: #efefef;
+  background-color: #292a30;
+}
+
+mark,
+::selection {
+  background-color: #515b70;
+}
+
+.note,
+.site.name {
+  color: #efefef;
+}
+
+.site.slogan .title,
+.note.date,
+.article.date,
+.image-container .title,
+.footer {
+  color: #828b98;
+}
+
+.note.content,
+.article.markdown-body {
+  color: #dfdfdf;
+}
+
+code,
+kbd,
+tt,
+samp {
+  color: #900000;
+}
+
+pre {
+  background-color: #292a30;
+}
+
+a {
+  color: #82aaff;
+}
+
+.pagination ul li a {
+  color: #82aaff;
+}
+
+.pagination ul li a.active {
+  background-color: #82aaff;
+}
+
+.pagination ul li a:hover:not(.active) {
+  background-color: rgba(130, 170, 255, .5);
+}
+
+.tag {
+  color: #ff757f;
+}
+
+.category {
+  color: #ffc777;
+}
+
+.tag,
+.category {
+  background-color: rgba(227,231,235,.08);
+}
+
+.note.list .item a:hover,
+.nav.item:hover,
+.article.tag:hover,
+.article.category:hover {
+  background-color: rgba(227,231,235,.15);
+}
+
+/* border color */
+pre,
+.note.imgs .img,
+.image-container .img,
+.article.markdown-body table td,
+.article.markdown-body table th,
+.article.markdown-body .lntable {
+  border-color: #3e3f44;
+}
+
+.article.markdown-body h1,
+.article.markdown-body h2,
+.image-container .title,
+.site.slogan .title,
+.note.list .item {
+  border-bottom-color: #3e3f44;
+}
+
+.article.markdown-body blockquote {
+  border-left-color: #d95755;
+  background-color: rgba(217, 87, 85, .08);
+}
+
+.article.discussion {
+  border-top-color: #3e3f44;
+  border-bottom-color: #3e3f44;
+}
+
+.article.markdown-body .lntable tr>:first-child {
+  border-right-color: #3e3f44;
+}
