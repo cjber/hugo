@@ -8,7 +8,7 @@ I am currently studying an integrated MSc and PhD in Data Analytics and Society 
 
 In addition to my studies I am very fond of the Linux operating system, particularly the distribution I have been running for a while now; [**<span style="color:green">Manjaro</span>**](https://manjaro.org/), with the _i3_ window manager. At present I maintain several Arch User Repository (AUR) `PKGBUILD` files for [various tools](https://aur.archlinux.org/packages/?K=cjber&SeB=m)  and aim in the future to contribute more to various packages and other open source software, primarily through my contributions on [Github](https://github.com/cjber). I have written an R package to share two R markdown templates I produced for assignments during my MSc based on LaTeX, found [here](https://github.com/cjber/uolrmarkdown). I am passionate about _[reproducible science and programming](https://ropensci.github.io/reproducibility-guide/)_, primarily using _R_ and _Python_ and am constantly looking to learn new tools to aid my work flow. I aim to outline particular opinions of mine, and solutions to programmatic problems in my [blog](/blog).
 
-My text editor of choice is always [neovim](https://neovim.io), my [init.vim](https://github.com/cjber/dotfiles/tree/master/config/nvim) provides extensive tools allowing for IDE style features in both _R_ and _Python_. My additional dotfiles are available [here](https://github.com/cjber/dotfiles).
+My text editor of choice is always [neovim](https://neovim.io), my [init.vim](https://github.com/cjber/dotfiles/tree/master/dotfiles/config/nvim) provides extensive tools allowing for IDE style features in both _R_ and _Python_. My additional dotfiles are available [here](https://github.com/cjber/dotfiles).
 
 # Curriculum Vitae
 
