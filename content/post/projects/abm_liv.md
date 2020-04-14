@@ -4,7 +4,7 @@ title = "Agent Based Model: Liverpool Crime"
 date = "2019-12-12"
 tags = [
     "python",
-    "abm",
+    "abm"
 ]
 categories = [
 "Portfolio"

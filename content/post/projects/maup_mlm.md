@@ -23,9 +23,16 @@ Results reveal that there is some level of variance explained through the aggreg
 
 <p align="center">
 <font size="5">
-<a href="https://github.com/cjber/gds/tree/master/envs453/a1_envs453"> Repository Link</a>
+<a href="/post/projects/pdfs/a1_envs453.pdf"> PDF</a>
 </font>
 </p>
 
+---
+
+<p align="center">
+<font size="5">
+<a href="https://github.com/cjber/gds/tree/master/envs453/a1_envs453"> Repository Link</a>
+</font>
+</p>
 
 ---
