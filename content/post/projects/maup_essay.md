@@ -19,11 +19,17 @@ The essay presents the idea that specific targeting of policy may lead to uninte
 
 ---
 
-
-
 <p align="center">
 <font size="5">
 <a href="https://github.com/cjber/gds/tree/master/envs416"> Repository Link</a>
+</font>
+</p>
+
+---
+
+<p align="center">
+<font size="5">
+<a href="/post/projects/pdfs/a1_envs450.pdf"> PDF</a>
 </font>
 </p>
 
