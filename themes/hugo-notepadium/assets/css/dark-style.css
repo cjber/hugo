@@ -32,6 +32,8 @@ tt,
 samp {
   color: #dfdfdf;
   background-color: #09121a;
+  padding-right: 3px;
+  padding-left: 3px;
 }
 
 pre {
