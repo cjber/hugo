@@ -1,6 +1,6 @@
 +++
 author = "Cillian Berragan"
-title = "Exploring Online Car Listings Using SckKit Learn"
+title = "Exploring Online Car Listings Using SciKit Learn"
 date = "2020-03-09"
 tags = [
     "python",
