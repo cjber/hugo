@@ -11,11 +11,7 @@ categories = [
 ]
 +++
 
-This essay presents a critique of Area Based Policy in the United Kingdom, a fairly recent development that aims to target specified geographic areas to tackle socioeconomic problems.
-
-<!--more-->
-
-The essay presents the idea that specific targeting of policy may lead to unintended issues in relation to gentrification, and social exclusion. Additionally it considers that a persons social network if influenced by more than purely their home area.
+This page contains my dissertation submitted as part of of Masters degree.
 
 ---
 

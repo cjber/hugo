@@ -12,17 +12,15 @@ categories = [
 ]
 +++
 
-This essay presents the outcome of analysis using multi level models to consider the effect of arbitrary data aggregation into census units.
+This essay covers machine learning methods for predicting property values in Liverpool.
 
 <!--more-->
-
-Results reveal that there is some level of variance explained through the aggregation of the data used, as models give varying results with either MSOA, or LSOA level aggregation.
 
 ---
 
 <p align="center">
 <font size="5">
-<a href="/post/projects/pdfs/a3_envs453.pdf"> HTML</a>
+<a href="/post/projects/pdfs/a3_envs453.pdf"> PDF</a>
 </font>
 </p>
 

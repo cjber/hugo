@@ -12,11 +12,7 @@ categories = [
 ]
 +++
 
-This essay presents the outcome of analysis using multi level models to consider the effect of arbitrary data aggregation into census units.
-
-<!--more-->
-
-Results reveal that there is some level of variance explained through the aggregation of the data used, as models give varying results with either MSOA, or LSOA level aggregation.
+This essay explores various geographically weighted machine learning methods for studying unemployment.
 
 ---
 
